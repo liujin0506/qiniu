@@ -1,12 +1,12 @@
 {
-  "name": "qiniu/qiniu",
+  "name": "jliu/qiniu",
   "description": "Qiniu SDK",
   "keywords": ["sdk", "cloud storage", "api", "qiniu"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Corrie Zhao",
-      "email": "hfcorriez@gmail.com"
+      "name": "Liu Jing",
+      "email": "liujin0506@qq.com"
     }
   ],
   "require": {
